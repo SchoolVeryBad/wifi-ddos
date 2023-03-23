@@ -1,6 +1,10 @@
 # wifi-ddos
-Wifi-ddos
-This is ddos of wifi & site
+# Wifi-ddos
+# This is ddos of wifi & site
+
+
+
+# commands
 Apt update 
 Apt upgrade
 Apt install git
