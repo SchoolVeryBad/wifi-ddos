@@ -17,7 +17,7 @@ Apt install git
 Apt install python2
 
 
-git clone https://github/SchoolVeryBad/wifi-ddos
+git clone https://github.com/SchoolVeryBad/wifi-ddos
 
 
 Cd wifi-ddos
