@@ -23,7 +23,7 @@ git clone https://github.com/SchoolVeryBad/wifi-ddos
 Cd wifi-ddos
 
 
-Pip install requirements.txt
+Pip install -r requirements.txt
 
 
 Python2 ddos.py
